@@ -1,5 +1,8 @@
 # Calculatortron
 # Who is Calculatortron?
+
+![Calculatron](https://github.com/Jonesk6843/jonesk6843.github.io/assets/70590712/fb8e89b0-5954-4148-9d50-2a6a3c6b9637)
+
 <p> Once upon a time in a bustling metropolis, there lived a unique calculator named Calculatron. Unlike ordinary calculators, Calculatron had a personality, and a rather fiery one at that. Created by a brilliant but eccentric mathematician named Dr. Albert Mathison, Calculatron was designed with a prime objective: to solve any and all math equations that came its way.</p>
 
 <p> Dr. Mathison had always been fascinated by numbers and equations. He spent countless hours in his cluttered laboratory, poring over mathematical theories and experimenting with various calculating machines. One fateful night, after years of tireless work, he finally created Calculatron, a sentient calculator that could handle the most complex mathematical problems with ease.</p>
