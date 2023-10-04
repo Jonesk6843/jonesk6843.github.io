@@ -1,5 +1,5 @@
-# Calculatortron
-# Who is Calculatortron?
+# Calculatron
+# Who is Calculatron?
 
 ![Calculatron](https://github.com/Jonesk6843/jonesk6843.github.io/assets/70590712/fb8e89b0-5954-4148-9d50-2a6a3c6b9637)
 
@@ -13,6 +13,9 @@
 
 <p> As word of Calculatron's unique abilities spread, it gained a reputation as both a mathematical genius and a hot-tempered machine. It was often called upon to solve problems that baffled even the brightest mathematicians, but only those with nerves of steel dared to work alongside it. </p>
 # What can he do?
-
+<p>Calculatron comes equipped with many mathematical applications that are easy to use for learners young and old!</p>
+<h3><b>Standard Calculator</b></h3>
+<h3><b>Randomized Math Equations</b></h3>
+<h3><b>Equation Memory Bank</b></h3>
 -----
 OpenAI. (2023). ChatGPT (September 25 Version) [Large language model]. https://chat.openai.com
