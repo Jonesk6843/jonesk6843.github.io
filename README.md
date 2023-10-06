@@ -19,10 +19,11 @@
   <p><I>"As a parent, I want to check my child’s answers so I can see my child’s improvements in mathematics."</p></i>
 <h3><b>Randomized Math Equations</b></h3>
     <p>Number Attack takes the drudgery out of math practice and transforms it into an exciting game that will keep you coming back for more. Users can choose between the four basic math operations <I>(addition, subtraction, multiplication, and division)</i> and Calculatron will present to them a simple equation to solve!</p>
-  <p><I>"As a math student, I want to solve random math equations so I can improve my skills in mathematics."</p></i>
+  <p><i>"As a math student, I want to solve random math equations so I can improve my skills in mathematics."</i></p>
 <h3><b>Equation Memory Bank</b></h3>
     <p>Want to challenge your friends? Calculatron will allow you to store up to <b>ten</b> preset equations in the system and allow others to solve them! Whether you're a math teacher teaching your students or a student testing your friends, this feature will be useful in your mathematical studies!</p>
-  <p><I>"As a math teacher, I want to store preset math equations so I can teach groups of students various math exercises at the same time."</p></i>
-  - - - -
+  <p><i>"As a math teacher, I want to store preset math equations so I can teach groups of students various math exercises at the same time."</i></p>
+
+-----
     
 OpenAI. (2023). ChatGPT (September 25 Version) [Large language model]. https://chat.openai.com
