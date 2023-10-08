@@ -24,6 +24,6 @@
     <p>Want to challenge your friends? Calculatron will allow you to store up to <b>ten</b> preset equations in the system and allow others to solve them! Whether you're a math teacher teaching your students or a student testing your friends, this feature will be useful in your mathematical studies!</p>
   <p><i>"As a math teacher, I want to store preset math equations so I can teach groups of students various math exercises at the same time."</i></p>
 
------
+----
     
 OpenAI. (2023). ChatGPT (September 25 Version) [Large language model]. https://chat.openai.com
